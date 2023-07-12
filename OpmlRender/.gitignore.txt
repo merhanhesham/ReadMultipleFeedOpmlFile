@@ -1,0 +1,5 @@
+OpmlRender.csproj.nuget.dgspec
+OpmlRender.csproj.nuget.g.props
+OpmlRender.csproj.nuget.g.targets
+project.assets
+project.nuget.cache
